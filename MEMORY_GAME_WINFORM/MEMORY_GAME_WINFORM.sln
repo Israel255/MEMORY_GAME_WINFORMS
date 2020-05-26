@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEMORY_GAME_WINFORM", "MEMORY_GAME_WINFORM.csproj", "{72028940-9531-4A5D-B118-0AE19473E714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72028940-9531-4A5D-B118-0AE19473E714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72028940-9531-4A5D-B118-0AE19473E714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72028940-9531-4A5D-B118-0AE19473E714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72028940-9531-4A5D-B118-0AE19473E714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD97E2B4-52F4-479F-B19F-771EE79A2BCF}
+	EndGlobalSection
+EndGlobal

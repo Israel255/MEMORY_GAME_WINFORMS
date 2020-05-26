@@ -1,0 +1,20 @@
+C:\Users\USER\Desktop\עבודות\MEMORY_GAME_WINFORM\bin\Debug\MEMORY_GAME_WINFORM.exe.config
+C:\Users\USER\Desktop\עבודות\MEMORY_GAME_WINFORM\bin\Debug\MEMORY_GAME_WINFORM.exe
+C:\Users\USER\Desktop\עבודות\MEMORY_GAME_WINFORM\bin\Debug\MEMORY_GAME_WINFORM.pdb
+C:\Users\USER\Desktop\עבודות\MEMORY_GAME_WINFORM\obj\Debug\MEMORY_GAME_WINFORM.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עבודות\MEMORY_GAME_WINFORM\obj\Debug\MEMORY_GAME_WINFORM.mainForm.resources
+C:\Users\USER\Desktop\עבודות\MEMORY_GAME_WINFORM\obj\Debug\MEMORY_GAME_WINFORM.Properties.Resources.resources
+C:\Users\USER\Desktop\עבודות\MEMORY_GAME_WINFORM\obj\Debug\MEMORY_GAME_WINFORM.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\עבודות\MEMORY_GAME_WINFORM\obj\Debug\MEMORY_GAME_WINFORM.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\MEMORY_GAME_WINFORM\obj\Debug\MEMORY_GAME_WINFORM.exe
+C:\Users\USER\Desktop\עבודות\MEMORY_GAME_WINFORM\obj\Debug\MEMORY_GAME_WINFORM.pdb
+C:\Users\USER\Desktop\עבודות\עבודת הגשה\MEMORY_GAME_WINFORM\bin\Debug\MEMORY_GAME_WINFORM.exe.config
+C:\Users\USER\Desktop\עבודות\עבודת הגשה\MEMORY_GAME_WINFORM\bin\Debug\MEMORY_GAME_WINFORM.exe
+C:\Users\USER\Desktop\עבודות\עבודת הגשה\MEMORY_GAME_WINFORM\bin\Debug\MEMORY_GAME_WINFORM.pdb
+C:\Users\USER\Desktop\עבודות\עבודת הגשה\MEMORY_GAME_WINFORM\obj\Debug\MEMORY_GAME_WINFORM.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עבודות\עבודת הגשה\MEMORY_GAME_WINFORM\obj\Debug\MEMORY_GAME_WINFORM.mainForm.resources
+C:\Users\USER\Desktop\עבודות\עבודת הגשה\MEMORY_GAME_WINFORM\obj\Debug\MEMORY_GAME_WINFORM.Properties.Resources.resources
+C:\Users\USER\Desktop\עבודות\עבודת הגשה\MEMORY_GAME_WINFORM\obj\Debug\MEMORY_GAME_WINFORM.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\עבודות\עבודת הגשה\MEMORY_GAME_WINFORM\obj\Debug\MEMORY_GAME_WINFORM.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\עבודת הגשה\MEMORY_GAME_WINFORM\obj\Debug\MEMORY_GAME_WINFORM.exe
+C:\Users\USER\Desktop\עבודות\עבודת הגשה\MEMORY_GAME_WINFORM\obj\Debug\MEMORY_GAME_WINFORM.pdb
